@@ -40,7 +40,7 @@ jobs:
           plugin_wakatime_limit: 5
           plugin_wakatime_languages_other: yes
           plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: languages, languages-graphs, editors, os
+          plugin_wakatime_sections: languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           repositories_forks: yes
