@@ -28,7 +28,7 @@ jobs:
           # Options
           user: ZEBAS204
           template: classic
-          base: activity, community, repositories, metadata
+          base: community, repositories, metadata
           base_indepth: yes
           config_timezone: America/Argentina/Buenos_Aires
           plugin_topics: yes
